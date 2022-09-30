@@ -1,1 +1,1 @@
-# Satra-Benz.github.io
+Hello this is my first HTML-only project I ahve desgned. I didn't have any CSS knowledge back when I designed this. I will however finish this website and customize it with CSS aswell. Have a beautiful day!
