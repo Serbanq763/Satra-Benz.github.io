@@ -1,1 +1,1 @@
-Hello this is my first HTML-only project I ahve desgned. I didn't have any CSS knowledge back when I designed this. I will however finish this website and customize it with CSS aswell. Have a beautiful day!
+Hello this is my first HTML-only project I have desgned. I didn't have any CSS knowledge back when I designed this. I will however finish this website by customizing it with CSS. Have a beautiful day!
